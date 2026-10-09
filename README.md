@@ -2,7 +2,7 @@
 FirstRepository 
 
 
-## My Project Plan
+## My Awesome Project Plan
 
 Initialize the Project
 Add the main feature
