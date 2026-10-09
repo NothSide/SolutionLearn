@@ -2,7 +2,7 @@
 FirstRepository 
 
 
-## My Project Plan
+## My Super Project Plan
 
 Initialize the Project
 Add the main feature
